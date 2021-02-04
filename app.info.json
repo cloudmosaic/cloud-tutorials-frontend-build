@@ -1,0 +1,12 @@
+{
+  "app_name": "cloud_tutorials",
+  "src_hash": "58e22cf2546a3c66d01c2f9758c27d6a81df26c5",
+  "src_tag": "",
+  "src_branch": "master",
+  "patternfly_dependencies": ["@patternfly/react-core@4.90.2","@patternfly/react-table@4.20.15"],
+  "travis": {
+    "event_type": "push",
+    "build_number": "2",
+    "build_web_url": "https://travis-ci.com/cloudmosaic/cloud-tutorials-frontend/builds/216100668"
+  }
+}

@@ -1,0 +1,2 @@
+(self.webpackChunkcloud_tutorials_frontend=self.webpackChunkcloud_tutorials_frontend||[]).push([[196],{20663:(e,n,t)=>{"use strict";t.r(n),t.d(n,{default:()=>a});var l=t(97522),u=t.n(l),o=t(55399),c=t(86350),r=t(20167);const a=(0,o.withRouter)((function(){return(0,l.useEffect)((function(){var e,n,t;null===(e=insights)||void 0===e||null===(n=e.chrome)||void 0===n||null===(t=n.appAction)||void 0===t||t.call(n,"oops-page")}),[]),u().createElement(c.Z,null,u().createElement(r.Z,null))}))}}]);
+//# sourceMappingURL=OopsPage.88c195f6abbabf06f9d1.js.map
