@@ -1,12 +1,12 @@
 {
   "app_name": "cloud-tutorials",
-  "src_hash": "e33c7287d5ffee5f7489ac5ec519fcea940ec3fc",
+  "src_hash": "5f9e20f9fd39076737f82dce31b9c5002f5ee413",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/react-core@4.90.2","@patternfly/react-table@4.20.15"],
   "travis": {
     "event_type": "push",
-    "build_number": "6",
-    "build_web_url": "https://travis-ci.com/cloudmosaic/cloud-tutorials-frontend/builds/216212786"
+    "build_number": "7",
+    "build_web_url": "https://travis-ci.com/cloudmosaic/cloud-tutorials-frontend/builds/216213213"
   }
 }
