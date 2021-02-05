@@ -10,7 +10,7 @@ node {
                       passphraseVariable: "",
                       usernameVariable: "")]) {
 
-      String APP_NAME = "cloud_tutorials"
+      String APP_NAME = "cloud-tutorials"
       String BRANCH = env.BRANCH_NAME.replaceAll("origin/", "")
 
       if (BRANCH == "prod-stable") {
